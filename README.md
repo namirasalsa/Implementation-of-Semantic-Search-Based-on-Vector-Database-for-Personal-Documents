@@ -23,7 +23,7 @@ For this project, "**Implementation of Semantic Search with Vector Database for 
 
 ---
 
-## Steps to Deploy Milvus Standalone
+## Steps to Deploy Milvus Standalone (Run Milvus in Docker on Windows)
 
 ### 1. Download and Run the Installation Script
 
